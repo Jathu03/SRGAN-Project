@@ -1,6 +1,5 @@
 # SRGAN-Project: Super-Resolution Image Generation
 
-![Python](https://img.shields.io/badge/Language-Python-100%25-blue)
 ![GAN](https://img.shields.io/badge/Deep%20Learning-SRGAN-orange)
 
 This repository is dedicated to the implementation of the **Super-Resolution Generative Adversarial Network (SRGAN)** architecture. The project's primary goal is to perform super-resolution by taking low-resolution (LR) input images and generating corresponding high-resolution (HR) images, significantly enhancing image detail and quality.
